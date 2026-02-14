@@ -40,4 +40,4 @@ python3 flockiesME.py
 
 
 
-AUTHOR: [NORCE247](https://github.com/blackh-t)  
+AUTHOR: [blackh-t](https://github.com/blackh-t)  
